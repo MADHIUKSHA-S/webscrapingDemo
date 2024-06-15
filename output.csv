@@ -1,0 +1,101 @@
+0,0,0,0,0,0
+1,OpenAI,Sam Altman,"San Francisco, California, United States",500,AI research and products
+2,Databricks,Ali Ghodsi,"San Francisco, California, United States","5,500",Data and AI platform
+3,Stripe,Patrick Collison,"Dublin, Ireland; San Francisco, California, United States","7,000",Financial infrastructure
+4,Canva,Melanie Perkins,"Sydney, Australia","3,640",Visual communication platform
+5,ServiceTitan,Ara Mahdessian,"Glendale, California, United States","2,564",Trade industry software
+6,Klaviyo,Andrew Bialecki,"Boston, Massachusetts, United States","1,598",Marketing automation
+7,Grammarly,Rahul Roy-Chowdhury,"San Francisco, California, United States",900,Communication assistance
+8,Talkdesk,Tiago Paiva,"San Francisco, California, United States","1,800",Cloud contact center
+9,Rubrik,Bipul Sinha,"Palo Alto, California, United States","2,900",Data security
+10,Miro,Andrey Khusid,"Amsterdam, Netherlands; San Francisco, California, United States","1,762",Digital collaboration
+11,Navan,Ariel Cohen,"Palo Alto, California, United States","3,000",Travel and expense management
+12,Netskope,Sanjay Beri,"Santa Clara, California, United States","2,500",Network security
+13,Tanium,Dan Streetman,"Kirkland, Washington, United States","1,887",Secure endpoint management
+14,Attentive,Amit Jhawar,"New York, New York, United States","1,035",SMS marketing
+15,Wiz,Assaf Rappaport,"New York, New York, United States",740,Cloud security
+16,Carta,Henry Ward,"San Francisco, California, United States","1,800",Equity management
+17,Celonis,"Alexander Rinke, Bastian Nominacher","Munich, Germany; New York, New York, United States","3,000",Process automation
+18,Grafana Labs,Raj Dutt,"New York, New York, United States","1,000",Database observability
+19,Snyk,Peter McKay,"Boston, Massachusetts, United States","1,000",Developer security
+20,Benchling,Sajith Wickramasekara,"San Francisco, California, United States",800,Biotech R&D platform
+21,OneTrust,Kabir Barday,"Atlanta, Georgia, United States","2,100",Compliance software
+22,Checkr,Daniel Yanisse,"San Francisco, California, United States","1,250",Background checks
+23,Gong,Amit Bendov,"San Francisco, California, United States","1,100",Revenue intelligence
+24,Zapier,Wade Foster,"Remote, United States",756,Workflow automation
+25,Dialpad,Craig Walker,"San Ramon, California, United States","1,084",Customer intelligence
+26,Gusto,Josh Reeves,"San Francisco, California, United States","2,400","Payroll, benefits and HR"
+27,AppsFlyer,Oren Kaniel,"San Francisco, California, United States","1,515",Mobile marketing analytics
+28,Airtable,Howie Liu,"San Francisco, California, United States",900,App development platform
+29,Arctic Wolf,Nick Schneider,"Eden Prairie, Minnesota, United States","2,221",Security operations
+30,OutSystems,Paulo Rosado,"Lisbon, Portugal; Boston, Massachusetts, United States","1,875",Low-code app development
+31,Guild,Rachel Romer,"Denver, Colorado, United States","1,200",Education benefits platform
+32,Motive,Shoaib Makani,"San Francisco, California, United States","3,000",Fleet management
+33,Scale AI,Alexandr Wang,"San Francisco, California, United States",600,Data infrastructure
+34,Calendly,Tope Awotona,"Atlanta, Georgia, United States",600,Scheduling automation
+35,Notion,Ivan Zhao,"San Francisco, California, United States",533,Work collaboration
+36,Plaid,Zachary Perret,"San Francisco, California, United States","1,000",Financial data connectivity
+37,Automation Anywhere,Mihir Shukla,"San Jose, California, United States","1,500",Robotic process automation
+38,Deel,Alex Bouaziz,"San Francisco, California, United States","2,600",Global HR
+39,HighRadius,Sashi Narahari,"Houston, Texas, United States","4,017",Autonomous finance
+40,Seismic,Doug Winter,"San Diego, California, United States","1,500",Sales enablement
+41,Zoho,Sridhar Vembu,"Chennai, India; Austin, Texas, United States","12,000",Office software suite
+42,Postman,Abhinav Asthana,"San Francisco, California, United States",700,API management
+43,Workato,Vijay Tella,"Mountain View, California, United States",837,Enterprise automation
+44,Dataiku,Florian Douetteau,"New York, New York, United States","1,200",Data science platform
+45,Cohesity,Sanjay Poonen,"San Jose, California, United States","2,100",Data security and management
+46,Algolia,Bernadette Nixon,"San Francisco, California, United States",753,Business search API
+47,Collibra,Felix Van de Maele,"Brussels, Belgium; New York, New York, United States","1,151",Data intelligence
+48,Icertis,Samir Bodas,"Bellevue, Washington, United States","2,200",Contract intelligence
+49,Druva,Jaspreet Singh,"Santa Clara, California, United States","1,100",Data protection
+50,1Password,Jeff Shiner,"Toronto, Canada","1,027",Identity security
+51,Yardi,Anant Yardi,"Santa Barbara, California, United States","9,300",Real estate software
+52,Fivetran,George Fraser,"Oakland, California, United States","1,150",Automated data movement
+53,Checkout.com,Guillaume Pousaz,"London, United Kingdom","1,900",Global payments provider
+54,Rippling,Parker Conrad,"San Francisco, California, United States","2,000",Workforce management
+55,HiBob,Ronni Zehavi,"London, United Kingdom",745,HR software
+56,Komodo Health,Arif Nathoo,"New York, New York; San Francisco, California, United States",800,Health care data analytics
+57,Outreach,Manny Medina,"Seattle, Washington, United States","1,045",Sales intelligence
+58,BrowserStack,Ritesh Arora,"Dublin, Ireland","1,050",Software testing platform
+59,Webflow,Vlad Magdalin,"San Francisco, California, United States",600,Visual development platform
+60,Pendo,Todd Olson,"Raleigh, North Carolina, United States",750,Digital adoption software
+61,Lucid,Dave Grow,"South Jordan, Utah, United States","1,100",Visual collaboration
+62,LaunchDarkly,Dan Rogers,"Oakland, California, United States",525,Software feature management
+63,ClickUp,Zeb Evans,"San Diego, California, United States",900,Work collaboration
+64,Retool,David Hsu,"San Francisco, California, United States",307,Internal tool development
+65,Razorpay,Harshil Mathur,"Bangalore, India","2,500",Payments software
+66,Contentsquare,Jonathan Cherki,"Paris, France","1,854",Customer analytics
+67,6sense,Jason Zintak,"San Francisco, California, United States","1,200",Account-based marketing
+68,Automattic,Matt Mullenweg,"San Francisco, California, United States","1,951",Publishing and e-commerce
+69,Papaya Global,Eynat Guez,"Herzliya, Israel; New York, New York, United States",708,Global payroll software
+70,Yotpo,Tomer Tagrin,"New York, New York, United States",800,E-commerce marketing platform
+71,Highspot,Robert Wahbe,"Seattle, Washington, United States",850,Sales enablement
+72,OwnBackup,Sam Gutmann,"Englewood Cliffs, New Jersey, United States",727,Software data protection
+73,Anthropic,Dario Amodei,"San Francisco, California, United States",200,AI research and products
+74,Sentry,Milin Desai,"San Francisco, California, United States",354,App performance monitoring
+75,Chainalysis,Michael Gronager,"New York, New York, United States",900,Blockchain data analytics
+76,Forter,Michael Reitblat,"New York, New York, United States",500,E-commerce fraud prevention
+77,Intercom,Eoghan McCabe,"San Francisco, California, United States",854,Customer service platform
+78,Contentful,Steve Sloan,"Berlin, Germany; San Francisco, California; Denver, Colorado, United States",750,Content creation platform
+79,Claroty,Yaniv Vardi,"New York, New York, United States",488,Industrial cybersecurity
+80,Abnormal Security,Evan Reiser,"San Francisco, California, United States",500,Email security
+81,Cloudinary,Itai Lahan,"Santa Clara, California, United States",476,Media management
+82,Vanta,Christina Cacioppo,"San Francisco, California, United States",340,Security and compliance
+83,Dbt Labs,Tristan Handy,"Philadelphia, Pennsylvania, United States",376,Data transformation
+84,ActiveCampaign,Jason VandeBoom,"Chicago, Illinois, United States",912,Marketing automation
+85,Midjourney,David Holz,"San Francisco, California, United States",44,AI image generator
+86,Brightwheel,Dave Vasen,"San Francisco, California, United States",400,Childcare management
+87,Tekion,Jay Vijayan,"Pleasanton, California, United States","3,043",Automotive retail platform
+88,Personio,Hanno Renner,"Munich, Germany","1,700",HR software
+89,Axonius,Dean Sysman,"New York, New York, United States",589,Cybersecurity asset management
+90,Harness,Jyoti Bansal,"San Francisco, California, United States",720,Software delivery
+91,Kong Inc.,Augusto Marietti,"San Francisco, California, United States",500,API management
+92,Moveworks,Bhavin Shah,"Mountain View, California, United States",447,AI support automation
+93,Front,Mathilde Collin,"San Francisco, California, United States",275,Customer operations
+94,Mambu,Fernando Zandona,"Amsterdam, Netherlands",964,Cloud banking platform
+95,Orca Security,Gil Geron,"Portland, Oregon, United States",447,Cloud security
+96,Cribl,Clint Sharp,"San Francisco, California, United States",525,Data observability
+97,Cockroach Labs,Spencer Kimball,"New York, New York, United States",460,Database management
+98,Hugging Face,Clément Delangue,"New York, New York, United States",200,Open-source AI library
+99,MessageBird,Robert Vis,"Amsterdam, Netherlands",600,Communications platform
+100,DeepL,Jarek Kutylowski,"Cologne, Germany",600,AI translation service
